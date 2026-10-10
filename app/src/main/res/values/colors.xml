@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#1E1E1E</color>
+    <color name="panel">#2B2B2B</color>
+    <color name="line">#3A3A3A</color>
+    <color name="gold">#B7902E</color>
+    <color name="gold_dark">#8E6F22</color>
+    <color name="trace">#E0B64A</color>
+    <color name="fg">#EDEDED</color>
+    <color name="muted">#9A9A9A</color>
+    <color name="screen">#121212</color>
+    <color name="warn">#E09A5A</color>
+</resources>
